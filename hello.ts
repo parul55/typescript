@@ -1,0 +1,11 @@
+console.log("hello from typescript");
+let no : number;
+console.log(no);
+let rollno : number = 12;
+console.log(rollno);
+let name1 : string;
+console.log(name1);
+let nam : string = "Parul Singh";
+console.log(nam);
+let registered : boolean = true;
+console.log(registered);

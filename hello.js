@@ -1,0 +1,11 @@
+console.log("hello from typescript");
+var no;
+console.log(no);
+var rollno = 12;
+console.log(rollno);
+var name1;
+console.log(name1);
+var nam = "Parul Singh";
+console.log(nam);
+var registered = true;
+console.log(registered);
